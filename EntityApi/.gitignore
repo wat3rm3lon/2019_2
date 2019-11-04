@@ -1,0 +1,8 @@
+*.dtbcache
+*.suo
+*.lock
+*.ide
+*.dll
+*.cache
+*.pdb
+*.user
